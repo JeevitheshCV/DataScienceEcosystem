@@ -29,4 +29,4 @@ To run this notebook, you'll need to have a Jupyter Notebook environment install
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+   [git clone https://github.com/JeevitheshCV/DataScienceEcosystem.git]
